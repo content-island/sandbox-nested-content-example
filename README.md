@@ -1,6 +1,6 @@
-# Content Island × Gestión de contenido anidado
+# Content Island × Nested Content
 
-> This repository contains the **complete example** that accompanies the Content Island tutorial **“Advanced Gestión de contenido anidado.”**
+> This repository contains the **complete example** that accompanies the Content Island tutorial **“Advanced Nested Content.”**
 > Follow the tutorial: **https://docs.contentisland.net/es/advanced/nested-content/**
 > Learn more about Content Island: **https://contentisland.net/**
 
